@@ -9,7 +9,7 @@ _What if you had a few hundred million dollars in your wallet, but you don't rem
 ## Table of Contents
 
 - [Preface](chapters/00-preface.md) - Start here!
-- [Chapter 1](chapters/01.md) - 2535 words
+- [Chapter 1](chapters/01.md) - 2533 words (12m read)
 
 ## FAQ
 
